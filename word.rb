@@ -1,2 +1,3 @@
-puts "supercalifragilistiqexpialidocius".upcase
+puts "supercalifragilisticexpialidocious".length
+
 
