@@ -1,1 +1,1 @@
-"i really like programming"
+"i really like programming".capitalize
