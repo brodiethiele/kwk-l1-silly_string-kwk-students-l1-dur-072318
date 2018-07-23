@@ -1,2 +1,2 @@
-"supercalifragilistiqexpialidocius".upcase
+puts "supercalifragilistiqexpialidocius".upcase
 
