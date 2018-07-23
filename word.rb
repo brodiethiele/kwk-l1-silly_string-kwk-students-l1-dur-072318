@@ -1,3 +1,1 @@
-puts "supercalifragilisticexpialidocious"+"wow"+"mom".length
-
-
+"i really like programming"
